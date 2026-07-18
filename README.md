@@ -2,7 +2,7 @@
 
 ## Authors
 
-Yiqun Ma1, Arnab K. Dey, Rosana Aguilera, Noemie Letellier, Pierre Scala, Alexander Gershunov, Aron Walker, Caitlin G. Jones-Ngo, Michael Jerrett, Rachel Connolly, Neeta Thakur, Miriam E. Marlier, Tarik Benmarhnia
+Yiqun Ma, Arnab K. Dey, Rosana Aguilera, Noemie Letellier, Pierre Scala, Alexander Gershunov, Aron Walker, Caitlin G. Jones-Ngo, Michael Jerrett, Rachel Connolly, Neeta Thakur, Miriam E. Marlier, Tarik Benmarhnia
 
 ## R Version
 
